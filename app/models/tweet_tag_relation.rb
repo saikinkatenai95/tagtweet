@@ -1,0 +1,2 @@
+class TweetTagRelation < ApplicationRecord
+end
